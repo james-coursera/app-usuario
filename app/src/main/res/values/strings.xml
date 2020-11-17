@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Usuario</string>
+
+    <string name="hint_nombre_completo">Nombre completo</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion_contacto">Descripción contacto</string>
+    <string name="texto_siguiente">Siguiente</string>
+    <string name="texto_confirmar_datos">Confirmar Datos</string>
+    <string name="texto_fecha_nacimiento">Fecha Nacimiento: %1$s</string>
+    <string name="texto_telefono">Tel. %1$s</string>
+    <string name="texto_email">Email: %1$s</string>
+    <string name="texto_descripcion">Descripción: %1$s</string>
+    <string name="boton_editar">Editar Datos</string>
+    <string name="confirm_name">Detalle usuario</string>
+</resources>
